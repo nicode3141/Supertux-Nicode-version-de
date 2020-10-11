@@ -1,0 +1,28 @@
+(supertux-savegame
+  (version 1)
+  (title  "Icyisland - 7/26")
+  (lives   10)
+  (score   41245)
+  (distros 72)
+  (tux (x 4) (y 6)
+       (back "south")
+       (bonus "none"))
+  (levels
+     (level (name "world1/level1.stl")
+            (solved #t))
+     (level (name "world1/level2.stl")
+            (solved #t))
+     (level (name "world1/level3.stl")
+            (solved #t))
+     (level (name "world1/level4.stl")
+            (solved #t))
+     (level (name "world1/level5.stl")
+            (solved #t))
+     (level (name "world1/level6.stl")
+            (solved #t))
+     (level (name "world1/level7.stl")
+            (solved #t))
+   )
+ )
+
+;; EOF ;;

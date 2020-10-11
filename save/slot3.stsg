@@ -1,0 +1,24 @@
+(supertux-savegame
+  (version 1)
+  (title  "Icyisland - 5/26")
+  (lives   4)
+  (score   0)
+  (distros 0)
+  (tux (x 5) (y 11)
+       (back "north")
+       (bonus "none"))
+  (levels
+     (level (name "world1/level1.stl")
+            (solved #t))
+     (level (name "world1/level2.stl")
+            (solved #t))
+     (level (name "world1/level3.stl")
+            (solved #t))
+     (level (name "world1/level4.stl")
+            (solved #t))
+     (level (name "world1/level5.stl")
+            (solved #t))
+   )
+ )
+
+;; EOF ;;
